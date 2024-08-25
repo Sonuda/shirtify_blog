@@ -21,5 +21,12 @@ This will install the packages from the requirements.txt for this project.
 5. All Blogs are written on instance/posts.db which is a SQLite DB.
 6. Run main.py, and open the flask development server.
 7. Edit the html files in templates per requirment.
+8. To log in to Admin's account, use the login page and enter below credentials:
+Admin account email: admin@email.com
+
+Admin account password: asdf
+
+![image](https://github.com/user-attachments/assets/eb3de1d2-3bae-4d7c-bae3-4a87e281453e)
+
 
 ------------------------------------------------------------------------------------------------
